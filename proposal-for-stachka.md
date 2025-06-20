@@ -1,9 +1,23 @@
-Название доклада: 
+Название доклада: Почему "сначала тесты" — это правильная идея
+
 Тезисы: [Тезисы к докладу](abstract.md)
-intro: 'When it''s necessary to change the title of an article, the name may need to be updated in several places.'
-versions:
-  fpt: '*'
-  ghec: '*'
-  ghes: '*'
-redirect_from:
-  - /contributing/syntax-and-versioning-for-github-docs/changing-an-articles-title
+
+Категория: 
+
+Докладчик: Щетинин Денис Вячеславович
+
+Фото: ![](Face-BW-small.jpg)
+
+Должность: инженер-программист в команнде "Управление жизненным циклом клиента" компании Монета
+
+Обо мне (немного биографии и над чем ты сейчас работаешь)
+
+
+
+
+
+
+
+
+
+
