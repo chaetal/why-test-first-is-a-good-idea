@@ -12,7 +12,8 @@
 
 # Докладчик
  Щетинин Денис Вячеславович
-<details>  
+<details>
+  <summary>Фото</summary>
   ![](Face-BW-small.jpg)
 </details>
 
