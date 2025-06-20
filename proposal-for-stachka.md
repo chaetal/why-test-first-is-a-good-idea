@@ -11,9 +11,8 @@
 
 
 # Докладчик
-<details>
-  <summary>Щетинин Денис Вячеславович</summary>
-  
+ Щетинин Денис Вячеславович
+<details>  
   ![](Face-BW-small.jpg)
 </details>
 
