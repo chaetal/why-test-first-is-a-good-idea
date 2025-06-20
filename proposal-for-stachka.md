@@ -12,11 +12,9 @@
 
 # Докладчик
  Щетинин Денис Вячеславович
-<details>
-  <summary>Фото</summary>
+
  
   ![](Face-BW-small.jpg)
-</details>
 
 # Должность 
 
